@@ -3,8 +3,8 @@
 </p>
 
 # Fundamentos de Programação com Python e GPT para Geociências
-Scripts em python desenvolvidos para suporte nas aulas de pós graduação \
-_Interactive learning scripts for  Geostatistics._
+Scripts em python desenvolvidos para suporte nas aulas de pós graduação. \
+_Scripts for graduate lecture._
 
 ## Como usar _(How o use)_
 
@@ -13,7 +13,7 @@ _This repository contains Jupyter Notebook scripts that can be used with [Google
 
 **Scripts disponíveis _(Available Scripts)_**
 - Análise Exploratória de Dados - Jura dataset _(Exploratory Data Analysis - Juta dataset)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/geostats/blob/main/EDA_JuraDataset.ipynb)
-- Interpolacao pelo Inverso da Distancia _(Inverse of Distance Weighting Interpolation)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/geostats/blob/main/IDW.ipynb)
+- Interpolacao pelo Inverso da Distancia _(Inverse of Distance Weighting Interpolation)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/python/blob/main/idw.ipynb) ou/or [[Colab_geostats]](https://colab.research.google.com/github/geoUFSC/geostats/blob/main/IDW.ipynb)
 - Talude Infinito _(Infinite slope)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/python/blob/main/TaludeInfinito.ipynb)
 
 
