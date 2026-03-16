@@ -12,10 +12,9 @@ Esse repositório contém scripts Jupyter Notebook, que podem ser utilizados com
 _This repository contains Jupyter Notebook scripts that can be used with [Google Colab](https://colab.research.google.com/)._
 
 **Scripts disponíveis _(Available Scripts)_**
-- Análise Exploratória de Dados - Jura dataset _(Exploratory Data Analysis - Juta dataset)_ [[Colab_geostats]](https://colab.research.google.com/github/geoUFSC/geostats/blob/main/EDA_JuraDataset.ipynb)
-- Interpolacao pelo Inverso da Distancia _(Inverse of Distance Weighting Interpolation)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/python/blob/main/idw.ipynb) ou/or [[Colab_geostats]](https://colab.research.google.com/github/geoUFSC/geostats/blob/main/IDW.ipynb)
 - Talude Infinito _(Infinite slope)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/python/blob/main/TaludeInfinito.ipynb)
-
+- Interpolacao pelo Inverso da Distancia _(Inverse of Distance Weighting Interpolation)_ [[Colab]](https://colab.research.google.com/github/geoUFSC/python/blob/main/idw.ipynb) ou/or [[Colab_geostats]](https://colab.research.google.com/github/geoUFSC/geostats/blob/main/IDW.ipynb)
+- Análise Exploratória de Dados - Jura dataset _(Exploratory Data Analysis - Juta dataset)_ [[Colab_geostats]](https://colab.research.google.com/github/geoUFSC/geostats/blob/main/EDA_JuraDataset.ipynb)
 
 
 ## Licença _(License)_
